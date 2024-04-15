@@ -1,0 +1,77 @@
+﻿Id_car,Car,Car_name
+6,GT0558,Corporate Capacity and Core H1 2015
+8,GT0630,Corporate Last Mile and OSP H2 2015
+11,GT0729,Corporate VIP Customer´s 2016
+12,GT0743,Corporate Last Mile and OSP H2 2016
+13,GT0745,Corporate Capacity and Core H2 2016
+14,GT0911,Transmission Infrastructure Modernization
+16,GT0926,Corporate Last Mile and Out Side Plant 2017 H1
+17,GT0928,Provisioning and automation for IP networks
+18,GT0929,Expansion Corporate LTE Coverage for 2017
+21,GT0957,Corporate Last Mile and Out Side Plant 2017 2nd Half
+26,GT1053,Corporate Last Mile and Out Side Plant 2018 1st Half
+27,GT1054,Corporate Core & Capacity 2018 1st Half
+28,GT1055,Network Modernization 2018
+33,GT1194,Transmission Improvements 2019
+35,GT1198,Corporate Capacity and Core 2019 1st Half
+36,GT1236,Corporate Last Mile and Out Side Plant 2019 1st Half
+37,GT1237,Corporate Spares 2019
+39,GT1278,New Add/Drop in Guatemala DataCenter
+40,GT1291,Corporate Last Mile and Out Side Plant 2019 2nd Half
+41,GT1294,Corporate Capacity and Core 2019 2nd Half
+42,GT1342,Corporate VIP Customer´s 2019
+43,GT1369,Network Modernization 2019
+44,GT1384,Last Mile and Out Side Plant 2020 First Half
+46,GT1393,Network Capacity 2020 First Half
+47,GT1398,Special equipment for B2B solutions 2020
+48,GT1399,Spares for fixed services 2020
+49,GT1428,Data Center Capacity 2020
+51,GTA03I,Spare Part TX Support
+52,GTA03K,Materials and fiber
+53,GTA03L,CPEs and equipments
+54,GTA0B6,Regional Expansion 2021
+56,GTA0H1,CPEs and Equipments
+57,GTA0H2,Fiber optic and OSP Materials
+58,GTA0H9,Capacity Equipment & Services
+59,GTA0HB,Hardware & Services
+60,GTA0HD,Equipments
+61,GTA0HI,Materials and services
+63,GTA0HR,Spares
+64,GTA0HT,Hardware & Services
+65,GTA0HV,Materials & Services
+67,GTA0R9,Materials and fiber
+68,GTA0RA,CPEs and equipments
+69,GTA0SU,Fiber and Materials
+70,GTA0SV,Wireless Equipment
+72,GTA11Q,Regional Intenet Expansion 2022
+73,GTA12J,CPEs and Equipments
+74,GTA12K,Fiber optic and OSP Materials
+75,GTA12M,CPEs and other equipments
+76,GTA12N,Fiber optic and materials
+38,GT1238,Expansion Corporate LTE Coverage for 2019
+71,GTA0YU,Hardware and services
+7,GT0629,VIP & PYME Corporate Customers 2015
+55,GTA0FU,Hardware & Services
+62,GTA0HO,Equipment
+50,GT1431,International Capacity Expansion 2020
+23,GT0999,Emergencia y Limpieza
+5,GT0537,Opex Savings Bunkers and Surge Supressors
+20,GT0949,Corporate VIP Customers 2017
+3,GT0343,Transmission Site Improvements
+66,GTA0KE,Equipments
+10,GT0700,Corporate Improvement´s Customer´s for Obsolete Networks
+24,GT1039,Last mile - Equipment for special projects
+1,GT0171,Last Mile Construction & Cpe Equipment Year 2012
+32,GT1168,Corporate Core & Capacity 2018 2nd Half
+31,GT1149,Corporate Last Mile and Out Side Plant 2018 2nd Half
+9,GT0631,Corporate Capacity and Core H2 2015
+2,GT0310,Last Mile Customer 2013
+4,GT0380,Preventive Maintenance on Corporate Nodes
+45,GT1392,Network Modernization 2020
+29,GT1056,Corporate Spares 2018
+25,GT1045,Expansion Corporate LTE Coverage for 2018
+34,GT1196,SD-WAN GT
+22,GT0977,Corporate Core & Capacity 2017 2nd Half
+15,GT0922,Corporate Spares 2017
+19,GT0940,VPN wireless for special services 2017
+30,GT1064,Automation for IP networks
